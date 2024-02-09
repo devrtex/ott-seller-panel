@@ -19,12 +19,15 @@ Easily add new users to your system and streamline the onboarding process. To ma
 ### How it works:
 1. Generate the provider ID link.
 2. Utilize the integrated TinyURL API to shorten the link. (Your custom short url/random)
-3. Key in the shortened link with the OTT provider for seamless registration.
+3. Key in the shortened link into OTT provider for seamless registration.
+   ![key-in-provider](https://github.com/devrtex/ott-seller-panel/assets/106234691/f26a06be-e427-4286-93d1-801913df2c99)
+
 With this feature, adding users to your system is faster and more efficient than ever before!
 ![tinyurl-generated-link](https://github.com/devrtex/ott-seller-panel/assets/106234691/25a9ff73-25ed-4891-889c-f20b50124b59)
 
 - **Notice Board**: Blast message to users to keep them stay updated with important notices and announcements regarding your server.
   ![notice-board](https://github.com/devrtex/ott-seller-panel/assets/106234691/8c7448e9-9d24-45d7-9797-4e66d5f216a8)
+  ![notice-display](https://github.com/devrtex/ott-seller-panel/assets/106234691/1d540cbd-547d-4751-9514-05735547a6b2)
 
 - **Login Records**: Keep track of login activities for security purposes.
   ![login-record-management](https://github.com/devrtex/ott-seller-panel/assets/106234691/28d5db17-7059-4239-b8f7-a2836f06e64d)
@@ -42,6 +45,19 @@ With this feature, adding users to your system is faster and more efficient than
 - **Reseller Management**: Add new manage and configure reseller accounts seamlessly.
   ![reseller-management](https://github.com/devrtex/ott-seller-panel/assets/106234691/f450e033-8d1d-4a21-b9a6-dbc79432f7b6)
   ![reseller-toggle-list](https://github.com/devrtex/ott-seller-panel/assets/106234691/ed87c24e-04b0-467f-bd83-19387210a7b0)
+
+## User Display in OTT Navigator App
+![will-be-displayed](https://github.com/devrtex/ott-seller-panel/assets/106234691/c5bbccc4-88a8-437b-b7c4-053178aa589a)
+
+In the OTT Navigator app, user information is presented clearly for easy management and monitoring. Here's how it looks:
+
+1. **User Information Display**: User details such as username, expiry date, system notice and provider name will be shown. This allows users to keep track of their account status.
+![will-be-displayed](https://github.com/devrtex/ott-seller-panel/assets/106234691/cfb0ea03-0599-4a3b-9594-9145101a6404)
+
+2. **Access Control Features**: Expired or multi-login deteted users are automatically blocked from accessing the service. This helps maintain security and ensures that only authorized users are allowed.
+![expired](https://github.com/devrtex/ott-seller-panel/assets/106234691/1f845999-355e-49b0-8142-2647a0cc97ba)
+
+With a user-friendly interface and robust access control features, managing users in the OTT Navigator app is efficient and secure.
 
 More exciting functions will be added soon!
 
