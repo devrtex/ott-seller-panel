@@ -33,7 +33,7 @@ With this feature, adding users to your system is faster and more efficient than
   ![login-record-management](https://github.com/devrtex/ott-seller-panel/assets/106234691/28d5db17-7059-4239-b8f7-a2836f06e64d)
 
 - **System Settings**: Customize your panel according to your preferences.
- 
+ ![Screenshot 2024-02-09 232033](https://github.com/devrtex/ott-seller-panel/assets/106234691/9607c5ba-34db-467b-b294-23647eb9a1ef)
 
 - **Playlist Manager and Editor**: Effortlessly manage and edit your playlists. (Edit your EPG, live TV channels even VOD library!)
   ![playlist-manager-1](https://github.com/devrtex/ott-seller-panel/assets/106234691/ada839f1-5ccc-48cf-9319-d90b0f550b66)
