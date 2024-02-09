@@ -20,7 +20,7 @@ Easily add new users to your system and streamline the onboarding process. To ma
 1. Generate the provider ID link.
 2. Utilize the integrated TinyURL API to shorten the link. (Your custom short url/random)
 3. Key in the shortened link into OTT provider for seamless registration.
-   ![key-in-provider](https://github.com/devrtex/ott-seller-panel/assets/106234691/f26a06be-e427-4286-93d1-801913df2c99)
+   ![key-in](https://github.com/devrtex/ott-seller-panel/assets/106234691/cf9e86f2-27f2-431d-ba06-060c2415bcb7)
 
 With this feature, adding users to your system is faster and more efficient than ever before!
 ![tinyurl-generated-link](https://github.com/devrtex/ott-seller-panel/assets/106234691/25a9ff73-25ed-4891-889c-f20b50124b59)
