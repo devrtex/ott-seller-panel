@@ -50,7 +50,7 @@ With this feature, adding users to your system is faster and more efficient than
 
 In the OTT Navigator app, user information is presented clearly for easy management and monitoring. Here's how it looks:
 
-1. **User Information Display**: User details such as username, expiry date, system notice and provider name will be shown. This allows users to keep track of their account status.
+1. **User Information Display**: User details such as username, ip address, expiry date, system notice and provider name will be shown. This allows users to keep track of their account status.
 ![will-be-displayed](https://github.com/devrtex/ott-seller-panel/assets/106234691/cfb0ea03-0599-4a3b-9594-9145101a6404)
 
 2. **Access Control Features**: Expired or multi-login deteted users are automatically blocked from accessing the service. This helps maintain security and ensures that only authorized users are allowed.
