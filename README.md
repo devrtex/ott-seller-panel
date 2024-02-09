@@ -47,7 +47,6 @@ With this feature, adding users to your system is faster and more efficient than
   ![reseller-toggle-list](https://github.com/devrtex/ott-seller-panel/assets/106234691/ed87c24e-04b0-467f-bd83-19387210a7b0)
 
 ## User Display in OTT Navigator App
-![will-be-displayed](https://github.com/devrtex/ott-seller-panel/assets/106234691/c5bbccc4-88a8-437b-b7c4-053178aa589a)
 
 In the OTT Navigator app, user information is presented clearly for easy management and monitoring. Here's how it looks:
 
