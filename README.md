@@ -56,7 +56,7 @@ In the OTT Navigator app, user information is presented clearly for easy managem
 2. **Access Control Features**: Expired or multi-login deteted users are automatically blocked from accessing the service. This helps maintain security and ensures that only authorized users are allowed.
 ![expired](https://github.com/devrtex/ott-seller-panel/assets/106234691/1f845999-355e-49b0-8142-2647a0cc97ba)
 
-With a user-friendly interface and robust access control features, managing users in the OTT Navigator app is efficient and secure.
+With a user-friendly interface and robust access control features, managing users for the OTT Navigator app is efficient and secure.
 
 More exciting functions will be added soon!
 
