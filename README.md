@@ -5,6 +5,7 @@ OTT Navigator Seller Panel - Easily manage your playlists and users even reselle
 ## Features 🚀
 
 - **System Overview**: Get a quick snapshot of your system right on the dashboard.
+  ![dashboard](https://github.com/devrtex/ott-seller-panel/assets/106234691/79e821df-a458-4c14-8b2b-84119bfe7dc0)
 - **My Info**: View and manage your personal information.
 - **Add User**: Quickly add new users to your system.
 - **Notice Board**: Stay updated with important notices and announcements.
