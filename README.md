@@ -1,6 +1,6 @@
 # OTT Navigator Seller Panel 📺
 
-OTT Navigator Seller Panel - Easily manage your playlists and users even resellers with our intuitive interface.
+OTT Navigator Seller Panel - Easily manage your playlists and users even resellers with an intuitive interface.
 
 ## Features 🚀
 - **Login Page**: Secure access to your panel with our login page.
