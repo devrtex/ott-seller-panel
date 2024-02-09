@@ -49,9 +49,9 @@ More exciting functions will be added soon!
 
 We welcome contributions! If you have ideas for new features or want to report bugs, please open an issue or submit a pull request.
 
-## Contact Us 📧
+## Contact Me 📧
 
-For any inquiries or support, feel free to reach out to us at [weixuanyi](https://t.me/weixuanyi).
+For any inquiries or support, feel free to reach me out at [weixuanyi](https://t.me/weixuanyi).
 
 ## License 📜
 
