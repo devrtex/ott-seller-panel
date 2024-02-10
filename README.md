@@ -66,7 +66,7 @@ We welcome contributions! If you have ideas for new features or want to report b
 
 ## Contact Me 📧
 
-For any inquiries or support, feel free to reach me out at [weixuanyi](https://t.me/weixuanyi).
+For any inquiries or support, feel free to reach me out at [devrtex@gmail.com](mailto:devrtex@gmail.com).
 
 ## License 📜
 
